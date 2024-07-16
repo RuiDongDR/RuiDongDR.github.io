@@ -1,0 +1,13 @@
+name: "YAML File"
+output_dir: "."
+navbar:
+  title: "Home"
+  left: 
+    - text: "Left tab"
+      href: null.html
+  right:
+    - text: "Right tab"
+      href: null.html
+output:
+  html_document:
+    theme: flatly
