@@ -18,7 +18,34 @@ In addition, I am exploring the use of omics data to investigate the underlying 
 
 Through my research, I aim to contribute to the field of statistical genetics by providing insights that can inform disease prevention, diagnosis, and treatment strategies.
 
-## Email
 
-- rui.dong.dr@gmail.com
-- rd2972@cumc.columbia.edu
+:::
+
+::: {.column width="5%"}
+\
+<!-- empty column for spacing reasons -->
+:::
+
+::: {.column width="30%"}
+
+```{=html}
+<img src="images/headshot.jpg", style="border: 5px solid #333355;float:right;">
+
+```
+
+
+```{=html}
+<div style="border-radius: 25px;background: #33335590;padding: 10px;">
+<br/>
+<h4 style=
+word-break:break-all;"> Contact Information</h4>
+<p style="size:8px;word-break:break-all;">
+Derek Lamb
+<br/>
+Email: <a href="mailto:rui.dong.dr@gmail.com">rui.dong.dr@gmail.com</a></p>
+</div>
+```
+
+:::
+
+::::
