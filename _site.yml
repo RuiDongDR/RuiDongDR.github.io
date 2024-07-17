@@ -20,6 +20,8 @@ navbar:
       href: mailto:<rui.dong.dr@gmail.com>
     - icon: fa-google-scholar
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
+    - icon: fa-researchgate
+      href: https://www.researchgate.net
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/rui-dong-738070269/
     - icon: fa-github fa-lg
