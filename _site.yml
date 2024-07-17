@@ -5,13 +5,17 @@ navbar:
   left:
     - text: "Education/Positions"
       href: education.html
+      icon: fa-graduation-cap
     - text: "Research"
       href: research.html
+      icon: fa-book
     - text: "Teaching"
       href: teaching.html
+      icon: fa-chalkboard-user
   right:
     - text: "Software"
       href: software.html
+      icon: fa-gear-code
 output:
   html_document:
     theme: simplex
