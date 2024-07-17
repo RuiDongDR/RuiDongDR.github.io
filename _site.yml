@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-    - text: "Education/Positions"
-      href: education.html
+    - text: "Experiences"
+      href: experiences.html
       icon: fa-graduation-cap
     - text: "Research"
       href: research.html
@@ -18,7 +18,7 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<rui.dong.dr@gmail.com>
-    - icon: fa-google-schokar
+    - icon: fa-google-scholar
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/rui-dong-738070269/
