@@ -4,14 +4,21 @@ title: "Introduction"
 
 Welcome to my personal website!
 
-I'm Rui Dong, a Postdoctoral Research Scientist at Columbia University Medical Center. With a focus on statistical genetics, I am part of the Center for Statistical Genetics at the Gertrude H. Sergievsky Center and the Department of Neurology. I work on unraveling the complex genetic underpinnings of neurological diseases, particularly Alzheimer's disease, through innovative statistical methods.
+## About Me
 
-My academic journey began at Sun Yat-sen University, where I earned a Bachelor of Science in Mathematics. I then pursued my Ph.D. at Tsinghua University, focusing on genome-scale analysis using alignment-free approaches based on the 1000 Genomes Project. This work laid the foundation for my current research, which integrates large-scale genomic data with advanced statistical techniques to uncover genetic associations and interactions. During these years, I have also presented my research at various international conferences and published in leading scientific journals.
+I am Rui Dong, a Postdoctoral Research Scientist at the Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York. With a solid foundation in mathematics and statistics, my academic journey has been dedicated to unraveling the genetic underpinnings of complex traits. My career encompasses a blend of methodological advancements and practical applications in statistical genetics, driven by a passion for advancing our understanding of genetics and its relation to disease etiology.
 
-In addition to my research, I have a passion for teaching and have served as a teaching assistant for numerous courses at Tsinghua University. I am also a reviewer for several academic journals, contributing to the scientific community by ensuring the quality and rigor of published research.
+I hold a Ph.D. in Mathematics from Tsinghua University (advisor: Prof. Stephen S.-T. Yau), where our major research interest is in evolutionary analysis. My Ph.D. thesis is on genome-scale analysis of populational genetics using alignment-free approaches based on the 1000 Genomes Project. My academic background also includes a Bachelor of Science in Mathematics from Sun Yat-sen University. Later on I did my first postdoc (mentor: Prof. Donald Rubin) at Yau Mathematical Sciences Center, Tsinghua University on causal inference in medical design and we also collaborated on a research project to study the SARS-CoV-2 variants (with Prof. Andrew Zhou from Peking University).
 
-Feel free to explore my website to learn more about my work, publications, and contributions to the field of statistical genetics. Thank you for visiting!
+## Research Interests
 
-# Email
+My research focuses on developing and applying statistical methodologies to understand the genetic architecture of complex traits. Currently, I am working on projects involving gene-environment interactions, heritability, and genetic correlations of traits such as Alzheimer’s disease (AD) and age-related hearing impairment (ARHI). By leveraging data from large-scale cohorts like the UK Biobank, my goal is to uncover significant genetic associations and improve our understanding of disease mechanisms.
 
-rui.dong.dr@gmail.com
+In addition, I am exploring the use of omics data to investigate the underlying mechanisms of complex traits. This involves examining proteomic data to identify genetic associations with various phenotypes and employing advanced statistical methods to analyze these relationships.
+
+Through my research, I aim to contribute to the field of statistical genetics by providing insights that can inform disease prevention, diagnosis, and treatment strategies.
+
+## Email
+
+- rui.dong.dr@gmail.com
+- rd2972@cumc.columbia.edu

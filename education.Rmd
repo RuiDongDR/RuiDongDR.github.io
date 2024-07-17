@@ -2,29 +2,37 @@
 title: "Education/Positions"
 ---
 
-# Education
+## Education
 
-- B.Sc. in Mathematics, 2011-2015
+- **B.Sc. in Mathematics, 2011-2015**
   - School of Mathematics, Department of Mathematics and Applied Mathematics
   - Sun Yat-sen University, Guangzhou, China
-- Ph.D. in Mathematics, 2015-2020
+  - Advisor: Prof. Lihua Yang and Prof. Daoqing Dai
+- **Ph.D. in Mathematics, 2015-2020**
   - School of Sciences, Department of Mathematics
   - Tsinghua University, Beijing, China
+  - Advisor: Prof. Stephen S.-T. Yau
 
-# Professional positions
+## Professional Positions
 
-- Research Assistant, the Yau Mathematical Sciences Center, Tsinghua University, Beijing, 2018-2023
-- Postdoctoral Research Scientist, the Yau Mathematical Sciences Center, Tsinghua University, and Yanqi Lake Beijing Institute of Mathematical Sciences and Applications, 2020-2023
-- Postdoctoral Research Scientist, the Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York, 2023-now
+- **Research Assistant, 2018-2023**
+  - The Yau Mathematical Sciences Center, Tsinghua University, Beijing
+  - Mentor: Prof. Donald B. Rubin
+- **Postdoctoral Research Scientist, 2020-2023**
+  - The Yau Mathematical Sciences Center, Tsinghua University, and Yanqi Lake Beijing Institute of Mathematical Sciences and Applications
+  - Mentor: Prof. Donald B. Rubin
+- **Postdoctoral Research Scientist, 2023-present**
+  - The Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York
+  - Mentor: Prof. Suzanne M. Leal and Prof. Gao T. Wang
 
+## Honors and Awards
 
-# Awards
-- First Prize Scholarship of Sun Yat-sen University, 2011-2015
-- Honorable Mention in the World Mathematical Contest in Modeling, 2012-2014
-- First Prize Scholarship of Tsinghua University, 2018-2019
-- Scholarship of Yau Mathematical Sciences Center, 2015-2020
-- Excellent Teaching Assistant at Tsinghua University, 2016
-- Outstanding Graduate of Beijing, 2020
-- ICCM Best Thesis Award (Doctor thesis Award) Sliver Prize, 2022
-- Ruolin Prize of Yau Mathematical Sciences Center, Tsinghua University, 2022
-- Top Poster Prize for Postdoc Research Symposium at Columbia University, 2023
+- **2011-2015:** First Prize Scholarship of Sun Yat-sen University
+- **2012-2014:** Honorable Mention in the World Mathematical Contest in Modeling
+- **2015-2020:** Scholarship of Yau Mathematical Sciences Center
+- **2016:** Excellent Teaching Assistant at Tsinghua University
+- **2018-2019:** First Prize Scholarship of Tsinghua University
+- **2020:** Outstanding Graduate of Beijing
+- **2022:** ICCM Best Thesis Award (Doctor Thesis Award) Silver Prize
+- **2022:** Ruolin Prize of Yau Mathematical Sciences Center, Tsinghua University
+- **2023:** Top Poster Prize for Postdoc Research Symposium at Columbia University
