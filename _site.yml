@@ -4,17 +4,17 @@ navbar:
   title: "Home"
   left:
     - text: "Experiences"
-      href: experiences.html
+      href: experience.html
       icon: fa-graduation-cap
     - text: "Research"
       href: research.html
       icon: fa-book
     - text: "Teaching"
       href: teaching.html
-      icon: fa-chalkboard-user
+      icon: fa-sharp-duotone fa-solid fa-chalkboard
     - text: "Software"
       href: software.html
-      icon: fa-gear-code
+      icon: fa-sharp fa-solid fa-gear
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<rui.dong.dr@gmail.com>
