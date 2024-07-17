@@ -7,3 +7,6 @@ My academic journey began at Sun Yat-sen University, where I earned a Bachelor o
 In addition to my research, I have a passion for teaching and have served as a teaching assistant for numerous courses at Tsinghua University. I am also a reviewer for several academic journals, contributing to the scientific community by ensuring the quality and rigor of published research.
 
 Feel free to explore my website to learn more about my work, publications, and contributions to the field of statistical genetics. Thank you for visiting!
+
+# Email
+rui.dong.dr@gmail.com
