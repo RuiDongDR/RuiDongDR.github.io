@@ -18,7 +18,7 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<rui.dong.dr@gmail.com>
-    - icon: fa-google-scholar
+    - icon: fa-brands fa-google-scholar
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
     - icon: fa-researchgate
       href: https://www.researchgate.net
