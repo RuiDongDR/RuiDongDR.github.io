@@ -2,14 +2,16 @@ name: "YAML File"
 output_dir: "."
 navbar:
   title: "Home"
-  left: 
-    - text: "Education"
+  left:
+    - text: "Education/Positions"
       href: education.html
     - text: "Research"
       href: research.html
+    - text: "Teaching"
+      href: teaching.html
   right:
-    - text: "Right tab"
-      href: null.html
+    - text: "Software"
+      href: software.html
 output:
   html_document:
-    theme: flatly
+    theme: simplex
