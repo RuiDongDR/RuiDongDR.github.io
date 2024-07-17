@@ -40,7 +40,7 @@ Through my research, I aim to contribute to the field of statistical genetics by
 <h4 style=
 word-break:break-all;"> Contact Information</h4>
 <p style="size:8px;word-break:break-all;">
-Derek Lamb
+Rui Dong
 <br/>
 Email: <a href="mailto:rui.dong.dr@gmail.com">rui.dong.dr@gmail.com</a></p>
 </div>
