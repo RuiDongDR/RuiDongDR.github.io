@@ -4,35 +4,38 @@ title: "Education / Positions"
 
 ## Education
 
-- **B.Sc. in Mathematics, 2011-2015**
-  - School of Mathematics, Department of Mathematics and Applied Mathematics
-  - Sun Yat-sen University, Guangzhou, China
-  - Advisor: Prof. Lihua Yang and Prof. Daoqing Dai
-- **Ph.D. in Mathematics, 2015-2020**
-  - School of Sciences, Department of Mathematics
-  - Tsinghua University, Beijing, China
-  - Advisor: Prof. Stephen S.-T. Yau
+- **B.Sc. in Mathematics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/index.htm), 2011-2015**
+  - [School of Mathematics, Department of Mathematics and Applied Mathematics](https://math.sysu.edu.cn/page/25)
+    - Major: Mathematics
+    - Advisor: [Prof. Lihua Yang](https://math.sysu.edu.cn/teacher/634) and Prof. Daoqing Dai
+  - Yat-sen School
+    - Major: Statistics
+  - [Lingnan College](https://lingnan.sysu.edu.cn/en)
+    - Minor in Finance
+- **Ph.D. in Mathematics, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2015-2020**
+  - [School of Sciences, Department of Mathematics](https://www.math.tsinghua.edu.cn/#)
+  - Advisor: [Prof. Stephen S.-T. Yau](http://homepages.math.uic.edu/~yau/)
 
 ## Professional Positions
 
 - **Research Assistant, 2018-2023**
-  - The Yau Mathematical Sciences Center, Tsinghua University, Beijing
+  - [The Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/)
   - Mentor: Prof. Donald B. Rubin
 - **Postdoctoral Research Scientist, 2020-2023**
-  - The Yau Mathematical Sciences Center, Tsinghua University, and Yanqi Lake Beijing Institute of Mathematical Sciences and Applications
+  - [The Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/), and [Yanqi Lake Beijing Institute of Mathematical Sciences and Applications](https://www.bimsa.cn)
   - Mentor: Prof. Donald B. Rubin
 - **Postdoctoral Research Scientist, 2023-present**
-  - The Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York
+  - [The Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center](https://www.neurology.columbia.edu/research/research-centers-and-programs/center-statistical-genetics)
   - Mentor: Prof. Suzanne M. Leal and Prof. Gao T. Wang
 
 ## Honors and Awards
 
 - **2011-2015:** First Prize Scholarship of Sun Yat-sen University
-- **2012-2014:** Honorable Mention in the World Mathematical Contest in Modeling
+- **2012-2014:** Honorable Mention in [the World Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm)
 - **2015-2020:** Scholarship of Yau Mathematical Sciences Center
 - **2016:** Excellent Teaching Assistant at Tsinghua University
 - **2018-2019:** First Prize Scholarship of Tsinghua University
 - **2020:** Outstanding Graduate of Beijing
-- **2022:** ICCM Best Thesis Award (Doctor Thesis Award) Silver Prize
+- **2022:** [ICCM Best Thesis Award (Doctor Thesis Award) Silver Prize](http://www.yau-bta.com/en/show-86-37.html)
 - **2022:** Ruolin Prize of Yau Mathematical Sciences Center, Tsinghua University
 - **2023:** Top Poster Prize for Postdoc Research Symposium at Columbia University
