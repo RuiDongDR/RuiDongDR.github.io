@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+# COURSE TEACHING ASSISTANT EXPERIENCE
+1.	Calculus, Tsinghua University, Beijing, China: Fall 2015; Spring 2016; Fall 2016; Spring 2019
+2.	Probability and Statistics, Tsinghua University, Beijing, China: Spring 2017; Fall 2017; Spring 2018
+3.	Linear Algebra, Tsinghua University, Beijing, China: Fall 2018
+4.	Design of Experiments, Tsinghua University, Beijing, China: Fall 2018
+5.	Statistical Analysis with Missing Data, Tsinghua University, Beijing, China: Spring 2019
+6.	Inference from Experiments, Tsinghua University, Beijing, China: Fall 2019
+7.	Summer school on Statistics, Big Data, and Artificial Neural Network, Tsinghua University and BIMSA, Beijing, China: Summer 2020
+8.	Matched Sampling for Causal Inference, Tsinghua University, Beijing, China: Spring 2021; Fall 2023
+9.	Micro-econometrics: Identification and Inference, Tsinghua University, Beijing, China: Spring 2021; Fall 2023
+10.	Causal Inference for Statistics, Social, and Biomedical Sciences (I and II), Tsinghua University, Beijing, China: Spring 2022; Fall 2022
+11.	Classical Contributions to Modern Statistical Thinking, Tsinghua University, Beijing, China: Spring 2022
+12.	Econometric analysis of cross section and panel data, Tsinghua University, Beijing, China: Fall 2022
