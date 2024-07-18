@@ -4,7 +4,7 @@ title: "Research"
 
 ## Invited Lectures
 
-1. **April 2018, Beijing, China:** *Virus database and online inquiry system based on natural vectors*, Tsinghua University Doctoral Forum in Mathematics
+1. **April 2018, Beijing, China:** *Virus database and online inquiry system based on natural vectors*, [Tsinghua University Doctoral Forum in Mathematics](https://www.tsinghua.edu.cn/jdfwzx/jdfw/smsz/bssltjd.htm)
 2. **December 2018, Sanya, China:** *A new method to cluster genomes based on cumulative Fourier power spectrum*, [Conferences on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://tsimf.cn/meeting/detail?id=196_)
 3. **June 2019, Beijing, China:** *A novel approach to clustering genome sequences using inter-nucleotide covariance*, [The 8th International Congress of Chinese Mathematicians](https://www.tsinghua.edu.cn/info/1368/81750.htm)
 4. **December 2019, Sanya, China:** *A novel approach to clustering genome sequences using inter-nucleotide covariance*, [Conference on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://www.tsimf.cn/meeting/detail?id=154)
