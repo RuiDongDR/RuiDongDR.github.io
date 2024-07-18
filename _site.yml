@@ -11,14 +11,14 @@ navbar:
       icon: fa-book
     - text: "Teaching"
       href: teaching.html
-      icon: fa-duotone fa-solid fa-chalkboard
+      icon: fa-solid fa-chalkboard-user
     - text: "Software"
       href: software.html
       icon: fa-solid fa-gear
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<rui.dong.dr@gmail.com>
-    - text: "{{< iconify ai google-scholar >}}"
+    - icon: fa-graduation-cap
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/rui-dong-738070269/
