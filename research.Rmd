@@ -4,7 +4,7 @@ title: "Research"
 
 <br><br>
 
-# Invited Lectures
+### Invited Lectures
 
 1. **April 2018, Beijing, China:** *Virus database and online inquiry system based on natural vectors*, [Tsinghua University Doctoral Forum in Mathematics](https://www.tsinghua.edu.cn/jdfwzx/jdfw/smsz/bssltjd.htm)
 2. **December 2018, Sanya, China:** *A new method to cluster genomes based on cumulative Fourier power spectrum*, [Conferences on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://tsimf.cn/meeting/detail?id=196_)
@@ -16,13 +16,13 @@ title: "Research"
 8. **August 2022, Nanjing, China:** *Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron*, [The 9th International Congress of Chinese Mathematicians](http://iccm.tsinghua.edu.cn/iccm2022/#/)
 9.  **November 2022, Beijing, China:** *Case-only design to estimate interaction effect in GWAS of rare disease*, [Postdoc Workshop for Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/info/1060/2473.htm)
 
-# Poster Presentations
+### Poster Presentations
 
 1. **December 2015, Suzhou, China:** *Microarray-based Cancer Prediction Model via One-Gene*, [Cold Spring Harbor Asia (CSHA) / American Association for Cancer Research (AACR) joint conference on Big Data, Computation and Systems Biology in Cancer](https://www.csh-asia.org/?content/1525)
 2. **May 2023, New York:** *The rare disease assumption in the case-only design*, [Postdoc Research Symposium at Columbia University](https://research.columbia.edu/sites/default/files/content/OPA/2023%20Columbia%20University%20Postdoctoral%20Research%20Symposium%20Abstracts%20(2)-1-30.pdf)
 3. **November 2023, Washington DC:** *The rare disease assumption in the case-only design*, [The 75th American Society of Human Genetics](https://www.ashg.org/meetings/2023meeting/)
 
-# Journal Reviewers
+### Journal Reviewers
 
 - [*Frontiers in Medicine*](https://www.frontiersin.org/journals/medicine)
 - [*Frontiers in Neuroscience*](https://www.frontiersin.org/journals/neuroscience)
@@ -30,9 +30,9 @@ title: "Research"
 - [*Clinical Epidemiology and Global Health*](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
 - [*Communications in Information and Systems*](https://www.intlpress.com/site/pub/pages/journals/items/cis/_home/_main/index.php)
 
-# Publications
+### Publications
 
-## Original Articles (Peer Reviewed)
+#### Original Articles (Peer Reviewed)
 
 1. **Dong R**, Zheng H, Tian K, Yau SC, Mao W, Yu W, Yin C, Yu C, He RL, Yang J, Yau SST (2017) Virus database and online inquiry system based on natural vectors. *Evolutionary Bioinformatics* 13:1-7. [PMID: 29308007](https://pubmed.ncbi.nlm.nih.gov/29308007/); [PMC5751915](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751915/)
 2. **Dong R**\*, Zhu Z\*, Yin C, He RL, Yau SST (2018) A new method to cluster genomes based on cumulative Fourier power spectrum. *Gene* 673:239-250. [PMID: 29935353](https://pubmed.ncbi.nlm.nih.gov/29935353/) \*Co-first author
@@ -47,6 +47,6 @@ title: "Research"
 11. **Dong R**\*, Hu T\*, Zhang Y, Li Y, Zhou XH (2022) Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron. *Vaccines (Special Issue: COVID-19: Epidemiology and Transmission)*, 10(4): 496. [PMID: 35455246](https://pubmed.ncbi.nlm.nih.gov/35455246/); [PMC9026126](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9026126/)
 
 
-## Under Revision
+#### Under Revision
 - **Dong R**, Wang TG, DeWan AT, Leal SM (2024) The case-only design: a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. Submitted.
 - Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Submitted.

@@ -13,13 +13,13 @@ title: "Introduction"
 <br>
 
 
-# About Me
+### About Me
 
 I am Rui Dong, a Postdoctoral Research Scientist (PI: [Prof. Suzanne M. Leal](https://www.neurology.columbia.edu/profile/suzanne-m-leal-phd) and [Prof. Gao T. Wang](https://www.tigerwang.org)) at the [Center of Statistical Genetics](https://www.neurology.columbia.edu/research/research-centers-and-programs/center-statistical-genetics#:~:text=We%20are%20a%20group%20of,statistical%20genetics%20and%20genetic%20epidemiology.), Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York. With a solid foundation in mathematics and statistics, my academic journey has been dedicated to unraveling the genetic underpinnings of complex traits. My career encompasses a blend of methodological advancements and practical applications in statistical genetics, driven by a passion for advancing our understanding of genetics and its relation to disease etiology.
 
 I hold a Ph.D. in Mathematics from [Tsinghua University](https://www.tsinghua.edu.cn/en/) (advisor: [Prof. Stephen S.-T. Yau](http://homepages.math.uic.edu/~yau/)), where our major research interest is in evolutionary analysis. My Ph.D. thesis is on genome-scale analysis of populational genetics using alignment-free approaches based on the 1000 Genomes Project. My academic background also includes a Bachelor of Science in Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). Later on I did my first postdoc (mentor: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)) at Yau Mathematical Sciences Center, Tsinghua University on causal inference in medical design and we also collaborated on a research project to study the SARS-CoV-2 variants (with [Prof. Andrew Zhou](http://faculty.washington.edu/azhou/) from Peking University).
 
-# Research Interests
+### Research Interests
 
 My research focuses on developing and applying statistical methodologies to understand the genetic architecture of complex traits. Currently, I am working on projects involving gene-environment interactions, heritability, and genetic correlations of traits such as Alzheimer’s disease (AD) and age-related hearing impairment (ARHI). By leveraging data from large-scale cohorts like the UK Biobank, my goal is to uncover significant genetic associations and improve our understanding of disease mechanisms.
 

@@ -4,7 +4,7 @@ title: "Experience"
 
 <br><br>
 
-# Education
+### Education
 
 - **B.Sc. in Mathematics, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/index.htm), 2011-2015**
   - [School of Mathematics, Department of Mathematics and Applied Mathematics](https://math.sysu.edu.cn/page/25)
@@ -18,7 +18,7 @@ title: "Experience"
   - [School of Sciences, Department of Mathematics](https://www.math.tsinghua.edu.cn/#)
   - Advisor: [Prof. Stephen S.-T. Yau](http://homepages.math.uic.edu/~yau/)
 
-# Professional Positions
+### Professional Positions
 
 - **Research Assistant, 2018-2023**
   - [The Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/)
@@ -30,7 +30,7 @@ title: "Experience"
   - [The Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center](https://www.neurology.columbia.edu/research/research-centers-and-programs/center-statistical-genetics)
   - Mentor: [Prof. Suzanne M. Leal](https://www.neurology.columbia.edu/profile/suzanne-m-leal-phd) and [Prof. Gao T. Wang](https://www.tigerwang.org)
 
-# Honors and Awards
+### Honors and Awards
 
 - **2011-2015:** First Prize Scholarship of Sun Yat-sen University
 - **2012-2014:** Honorable Mention in [the World Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm)
