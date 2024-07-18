@@ -14,14 +14,14 @@ navbar:
       icon: fa-sharp-duotone fa-solid fa-chalkboard
     - text: "Software"
       href: software.html
-      icon: fa-sharp fa-solid fa-gear
+      icon: fa-solid fa-gear
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<rui.dong.dr@gmail.com>
-    - icon: fa-brands fa-google-scholar
+    - icon: fa-google-scholar
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
-    - icon: fa-researchgate
-      href: https://www.researchgate.net
+    # - icon: fa-researchgate
+    #   href: https://www.researchgate.net
     - icon: fa-brands fa-linkedin
       href: https://www.linkedin.com/in/rui-dong-738070269/
     - icon: fa-github fa-lg

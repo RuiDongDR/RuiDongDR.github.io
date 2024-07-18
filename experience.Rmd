@@ -1,5 +1,5 @@
 ---
-title: "Education / Positions"
+title: "Experience"
 ---
 
 ## Education
@@ -11,7 +11,7 @@ title: "Education / Positions"
   - Yat-sen School
     - Major: Statistics
   - [Lingnan College](https://lingnan.sysu.edu.cn/en)
-    - Minor in Finance
+    - Minor: Finance
 - **Ph.D. in Mathematics, [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2015-2020**
   - [School of Sciences, Department of Mathematics](https://www.math.tsinghua.edu.cn/#)
   - Advisor: [Prof. Stephen S.-T. Yau](http://homepages.math.uic.edu/~yau/)
@@ -20,13 +20,13 @@ title: "Education / Positions"
 
 - **Research Assistant, 2018-2023**
   - [The Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/)
-  - Mentor: Prof. Donald B. Rubin
+  - Mentor: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin))
 - **Postdoctoral Research Scientist, 2020-2023**
   - [The Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/), and [Yanqi Lake Beijing Institute of Mathematical Sciences and Applications](https://www.bimsa.cn)
-  - Mentor: Prof. Donald B. Rubin
+  - Mentor: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin))
 - **Postdoctoral Research Scientist, 2023-present**
   - [The Center of Statistical Genetics, Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center](https://www.neurology.columbia.edu/research/research-centers-and-programs/center-statistical-genetics)
-  - Mentor: Prof. Suzanne M. Leal and Prof. Gao T. Wang
+  - Mentor: [Prof. Suzanne M. Leal](https://www.neurology.columbia.edu/profile/suzanne-m-leal-phd) and [Prof. Gao T. Wang](https://www.tigerwang.org)
 
 ## Honors and Awards
 

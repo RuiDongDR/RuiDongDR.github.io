@@ -4,7 +4,7 @@ title: "Introduction"
 
 :::: {style="display: flex;"}
 
-::: {.column width="65%"}
+::: {.column width="70%"}
 
 Welcome to my personal website!
 
@@ -30,7 +30,7 @@ Through my research, I aim to contribute to the field of statistical genetics by
 <!-- empty column for spacing reasons -->
 :::
 
-::: {.column width="30%"}
+::: {.column width="25%"}
 
 ```{=html}
 <img src="images/headshot.jpg", style="border: 5px solid #333355;float:right;">
