@@ -33,13 +33,13 @@ Through my research, I aim to contribute to the field of statistical genetics by
 ::: {.column width="25%"}
 
 ```{=html}
-<img src="images/headshot.jpg", style="border: 5px solid #333355;float:right;">
+<img src="images/headshot.jpg", style="border: 5px solid #FAD6C6;float:right;">
 
 ```
 
 
 ```{=html}
-<div style="border-radius: 25px;background: #FA8072;padding: 10px;">
+<div style="border-radius: 25px;background: #FAD6C6;padding: 10px;">
   <br/>
   <h4 style="word-break:break-all;">Contact Information</h4>
   <p style="size:8px;word-break:break-all;">
