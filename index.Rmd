@@ -39,14 +39,14 @@ Through my research, I aim to contribute to the field of statistical genetics by
 
 
 ```{=html}
-<div style="border-radius: 25px;background: #33335590;padding: 10px;">
-<br/>
-<h4 style=
-word-break:break-all;"> Contact Information</h4>
-<p style="size:8px;word-break:break-all;">
-Rui Dong
-<br/>
-Email: <a href="mailto:rui.dong.dr@gmail.com">rui.dong.dr@gmail.com</a></p>
+<div style="border-radius: 25px;background: #FA8072;padding: 10px;">
+  <br/>
+  <h4 style="word-break:break-all;">Contact Information</h4>
+  <p style="size:8px;word-break:break-all;">
+    Rui Dong
+    <br/>
+    Email: <a href="mailto:rui.dong.dr@gmail.com">rui.dong.dr@gmail.com</a>
+  </p>
 </div>
 ```
 
