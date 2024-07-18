@@ -1,19 +1,19 @@
 name: "YAML File"
-output_dir: "."
+output_dir: "./html"
 navbar:
   title: "Home"
   left:
     - text: "Experience"
-      href: experience.html
+      href: ./html/experience.html
       icon: fa-graduation-cap
     - text: "Research"
-      href: research.html
+      href: ./html/research.html
       icon: fa-book
     - text: "Teaching"
-      href: teaching.html
+      href: ./html/teaching.html
       icon: fa-solid fa-chalkboard-user
     - text: "Software"
-      href: software.html
+      href: ./html/software.html
       icon: fa-solid fa-gear
   right:
     - icon: fa-envelope fa-lg
@@ -27,5 +27,6 @@ navbar:
 output:
   html_document:
     include:
-      after_body: footer.html
+      after_body: ./html/footer.html
     theme: simplex
+    css: styles.css

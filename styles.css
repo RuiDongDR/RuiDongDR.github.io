@@ -1,0 +1,9 @@
+.navbar .nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .nav-item .fa {
+    margin-right: 5px;
+    /* Adjust as needed */
+}
