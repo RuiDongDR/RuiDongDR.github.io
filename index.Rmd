@@ -12,6 +12,7 @@ title: "Introduction"
 
 <br>
 
+
 # About Me
 
 I am Rui Dong, a Postdoctoral Research Scientist (PI: [Prof. Suzanne M. Leal](https://www.neurology.columbia.edu/profile/suzanne-m-leal-phd) and [Prof. Gao T. Wang](https://www.tigerwang.org)) at the [Center of Statistical Genetics](https://www.neurology.columbia.edu/research/research-centers-and-programs/center-statistical-genetics#:~:text=We%20are%20a%20group%20of,statistical%20genetics%20and%20genetic%20epidemiology.), Gertrude H. Sergievsky Center, and the Department of Neurology, Columbia University Medical Center, New York. With a solid foundation in mathematics and statistics, my academic journey has been dedicated to unraveling the genetic underpinnings of complex traits. My career encompasses a blend of methodological advancements and practical applications in statistical genetics, driven by a passion for advancing our understanding of genetics and its relation to disease etiology.
