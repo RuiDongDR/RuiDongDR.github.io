@@ -1,4 +1,4 @@
-/* Flex container for navbar */
+/* Flex container for navbar
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -25,6 +25,6 @@
 
 /* Style for text within navigation items */
 .navbar .nav-item span {
-    margin-right: 1px;
+    margin-right: 0px;
     /* Adjust space between text and icons */
-}
+} */
