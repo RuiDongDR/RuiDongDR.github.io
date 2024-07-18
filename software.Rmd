@@ -3,18 +3,18 @@ title: "Software"
 ---
 
 
-## [VirusDB](http://yaulab.math.tsinghua.edu.cn/VirusDB/)
+# [VirusDB](http://yaulab.math.tsinghua.edu.cn/VirusDB/)
 - **Database**: http://yaulab.math.tsinghua.edu.cn/VirusDB/
 - **Description**: Stores viral genome reference sequences and related information, providing online tools for computing natural vectors of genome sequences submitted by the users, and returns the information of five predicted neighbors of the query virus based on the Natural Vector algorithm
 - **Reference**: **Dong R**, Zheng H, Tian K, Yau SC, Mao W, Yu W, Yin C, Yu C, He RL, Yang J, Yau SST (2017) Virus database and online inquiry system based on natural vectors. Evolutionary Bioinformatics 13:1-7. [PMID: 29308007](https://pubmed.ncbi.nlm.nih.gov/29308007/); [PMC5751915](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751915/)
 
-## [Human-Origin-1kGP](https://github.com/YaulabTsinghua/Human-Origin-1kGP)
+# [Human-Origin-1kGP](https://github.com/YaulabTsinghua/Human-Origin-1kGP)
 - **Github repo**: https://github.com/YaulabTsinghua/Human-Origin-1kGP
 - **Database**: http://yaulab.math.tsinghua.edu.cn/2022_1000genomesprojectdata/ 
 - **Description**: Reconstructs the whole genomes of individuals from 1000 Genomes Project and the corresponding natural vectors and divided natural vectors
 - **Reference**: **Dong R**, Pei S, Guan M, Yau SC, Yin C, He RL, Yau SST (2022) Full chromosomal relationships between populations and the origin of humans. *Frontiers in Genetics*, 12: 828805. [PMID: 35186019](https://pubmed.ncbi.nlm.nih.gov/35186019/); [PMC8847220](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8847220/)
 
-## [CaseOnly](https://github.com/RuiDongDR/CaseOnly)
+# [CaseOnly](https://github.com/RuiDongDR/CaseOnly)
 - **Github repo**: https://github.com/RuiDongDR/CaseOnly
 - **Description**: Simulates data for the case-only and case-control designs for the detection of interactions, calculates analytical bias of interation term and evaluates the type I error and power for the case-only design
 - **Reference**: **Dong R**, Wang TG, DeWan AT, Leal SM (2024) The case-only design a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. Submitted.

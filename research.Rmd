@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Invited Lectures
+# Invited Lectures
 
 1. **April 2018, Beijing, China:** *Virus database and online inquiry system based on natural vectors*, [Tsinghua University Doctoral Forum in Mathematics](https://www.tsinghua.edu.cn/jdfwzx/jdfw/smsz/bssltjd.htm)
 2. **December 2018, Sanya, China:** *A new method to cluster genomes based on cumulative Fourier power spectrum*, [Conferences on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://tsimf.cn/meeting/detail?id=196_)
@@ -14,13 +14,13 @@ title: "Research"
 8. **August 2022, Nanjing, China:** *Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron*, [The 9th International Congress of Chinese Mathematicians](http://iccm.tsinghua.edu.cn/iccm2022/#/)
 9.  **November 2022, Beijing, China:** *Case-only design to estimate interaction effect in GWAS of rare disease*, [Postdoc Workshop for Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/info/1060/2473.htm)
 
-## Poster Presentations
+# Poster Presentations
 
 1. **December 2015, Suzhou, China:** *Microarray-based Cancer Prediction Model via One-Gene*, [Cold Spring Harbor Asia (CSHA) / American Association for Cancer Research (AACR) joint conference on Big Data, Computation and Systems Biology in Cancer](https://www.csh-asia.org/?content/1525)
 2. **May 2023, New York:** *The rare disease assumption in the case-only design*, [Postdoc Research Symposium at Columbia University](https://research.columbia.edu/sites/default/files/content/OPA/2023%20Columbia%20University%20Postdoctoral%20Research%20Symposium%20Abstracts%20(2)-1-30.pdf)
 3. **November 2023, Washington DC:** *The rare disease assumption in the case-only design*, [The 75th American Society of Human Genetics](https://www.ashg.org/meetings/2023meeting/)
 
-## Journal Reviewers
+# Journal Reviewers
 
 - [*Frontiers in Medicine*](https://www.frontiersin.org/journals/medicine)
 - [*Frontiers in Neuroscience*](https://www.frontiersin.org/journals/neuroscience)
@@ -28,13 +28,13 @@ title: "Research"
 - [*Clinical Epidemiology and Global Health*](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
 - [*Communications in Information and Systems*](https://www.intlpress.com/site/pub/pages/journals/items/cis/_home/_main/index.php)
 
-## Publications
+# Publications
 
-### Original Articles (Peer Reviewed)
+## Original Articles (Peer Reviewed)
 
 1. **Dong R**, Zheng H, Tian K, Yau SC, Mao W, Yu W, Yin C, Yu C, He RL, Yang J, Yau SST (2017) Virus database and online inquiry system based on natural vectors. *Evolutionary Bioinformatics* 13:1-7. [PMID: 29308007](https://pubmed.ncbi.nlm.nih.gov/29308007/); [PMC5751915](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751915/)
 2. **Dong R**\*, Zhu Z\*, Yin C, He RL, Yau SST (2018) A new method to cluster genomes based on cumulative Fourier power spectrum. *Gene* 673:239-250. [PMID: 29935353](https://pubmed.ncbi.nlm.nih.gov/29935353/) \*Co-first author
-3. Pei S, **Dong R**, He https://pubmed.ncbi.nlm.nih.gov/RL, Yau SST (2019) Large-scale genome comparison based on cumulative Fourier power and phase spectra: central moment and covariance vector. *Computational and Structural Biotechnology Journal*, 17:982-994. [PMID: 31384399](https://pubmed.ncbi.nlm.nih.gov/31384399/); [PMC6661692](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661692/)
+3. Pei S, **Dong R**, He RL, Yau SST (2019) Large-scale genome comparison based on cumulative Fourier power and phase spectra: central moment and covariance vector. *Computational and Structural Biotechnology Journal*, 17:982-994. [PMID: 31384399](https://pubmed.ncbi.nlm.nih.gov/31384399/); [PMC6661692](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661692/)
 4. **Dong R**, He L, He RL, Yau SST (2019) A novel approach to clustering genome sequences using inter-nucleotide covariance. *Frontiers in Genetics*, 10:234. [PMID: 31024610](https://pubmed.ncbi.nlm.nih.gov/31024610/); [PMC6465635](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6465635/)
 5. Sun N\*, **Dong R**\*, Pei S, Yin C, Yau SST (2020) A new method based on coding sequence density to cluster bacteria. *Journal of Computational Biology*, 27(12): 1688-1698. [PMID: 32392428](https://pubmed.ncbi.nlm.nih.gov/32392428/) \*Co-first author
 6. He L\*, **Dong R**\*, He RL, Yau SST (2020) A novel alignment-free method for HIV-1 subtype classification. *Infection, Genetics and Evolution*, 77: 104080. PMID: 31683009 \*Co-first author

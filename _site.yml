@@ -29,3 +29,4 @@ output:
     include:
       after_body: footer.html
     theme: simplex
+    css: rui.css
