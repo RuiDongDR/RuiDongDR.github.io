@@ -6,15 +6,47 @@ title: "Teaching"
 
 ### Teaching Assistant
 
+- **Classical Contributions to Modern Statistical Thinking**
+  - Tsinghua University, Beijing, China
+  - Spring 2022
+  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
+
+- **Causal Inference for Statistics, Social, and Biomedical Sciences (I and II)**
+  - Tsinghua University, Beijing, China
+  - Spring 2022; Fall 2022
+  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
+
+- **Matched Sampling for Causal Inference**
+  - Tsinghua University, Beijing, China
+  - Fall 2022; Spring 2021
+  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
+
+- **Econometric Analysis of Cross Section and Panel Data**
+  - Tsinghua University, Beijing, China
+  - Fall 2022
+  - Lecturer: [Prof. Per Johansson](https://www.uu.se/en/contact-and-organisation/staff?query=N99-616)
+
+- **Micro-econometrics: Identification and Inference**
+  - Tsinghua University, Beijing, China
+  - Fall 2022; Spring 2021
+  - Lecturer: [Prof. Per Johansson](https://www.uu.se/en/contact-and-organisation/staff?query=N99-616)
+
+- **Summer School on Statistics, Big Data, and Artificial Neural Network**
+  - Tsinghua University and BIMSA, Beijing, China
+  - Summer 2020
+  - Lecturers: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin), [Prof. Xiaoming Zhang](https://www.bimsa.cn/detail/xiaomingzhang.html?s=%2F%2Fzh-CN%2Fdetail%2Fxiaomingzhang.html), [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) and [Prof. Xiaolong Li](https://faculty.bjtu.edu.cn/9089/)
+
+
+
+
 - **Calculus**
   - Tsinghua University, Beijing, China
-  - Fall 2015; Spring 2016; Fall 2016; Spring 2019
+  - Spring 2019; Fall 2016; Spring 2016; Fall 2015
   - Lecturer: [Prof. Yitwah Cheung](https://ymsc.tsinghua.edu.cn/en/info/1031/2454.htm) etc.
-
 
 - **Probability and Statistics**
   - Tsinghua University, Beijing, China
-  - Spring 2017; Fall 2017; Spring 2018
+  - Spring 2018; Fall 2017; Spring 2017
   - Lecturer: Prof. Hongyan Tang
 
 - **Linear Algebra**
@@ -37,32 +69,3 @@ title: "Teaching"
   - Fall 2019
   - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
 
-- **Summer School on Statistics, Big Data, and Artificial Neural Network**
-  - Tsinghua University and BIMSA, Beijing, China
-  - Summer 2020
-  - Lecturers: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin), [Prof. Xiaoming Zhang](https://www.bimsa.cn/detail/xiaomingzhang.html?s=%2F%2Fzh-CN%2Fdetail%2Fxiaomingzhang.html), [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) and [Prof. Xiaolong Li](https://faculty.bjtu.edu.cn/9089/)
-
-- **Matched Sampling for Causal Inference**
-  - Tsinghua University, Beijing, China
-  - Spring 2021; Fall 2023
-  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
-
-- **Micro-econometrics: Identification and Inference**
-  - Tsinghua University, Beijing, China
-  - Spring 2021; Fall 2023
-  - Lecturer: [Prof. Per Johansson](https://www.uu.se/en/contact-and-organisation/staff?query=N99-616)
-
-- **Causal Inference for Statistics, Social, and Biomedical Sciences (I and II)**
-  - Tsinghua University, Beijing, China
-  - Spring 2022; Fall 2022
-  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
-
-- **Classical Contributions to Modern Statistical Thinking**
-  - Tsinghua University, Beijing, China
-  - Spring 2022
-  - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
-
-- **Econometric Analysis of Cross Section and Panel Data**
-  - Tsinghua University, Beijing, China
-  - Fall 2022
-  - Lecturer: [Prof. Per Johansson](https://www.uu.se/en/contact-and-organisation/staff?query=N99-616)
