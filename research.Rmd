@@ -51,5 +51,5 @@ title: "Research"
 
 
 #### Under Revision
-- **Dong R**, Wang TG, DeWan AT, Leal SM (2024) The case-only design: a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. Submitted.
-- Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Submitted.
+- **Dong R**, Wang TG, DeWan AT, Leal SM (2024) The case-only design: a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. Under Revision.
+- Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Under Revision.
