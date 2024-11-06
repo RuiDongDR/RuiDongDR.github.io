@@ -36,9 +36,6 @@ title: "Teaching"
   - Summer 2020
   - Lecturers: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin), [Prof. Xiaoming Zhang](https://www.bimsa.cn/detail/xiaomingzhang.html?s=%2F%2Fzh-CN%2Fdetail%2Fxiaomingzhang.html), [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) and [Prof. Xiaolong Li](https://faculty.bjtu.edu.cn/9089/)
 
-
-
-
 - **Calculus**
   - Tsinghua University, Beijing, China
   - Spring 2019; Fall 2016; Spring 2016; Fall 2015
@@ -69,3 +66,15 @@ title: "Teaching"
   - Fall 2019
   - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
 
+<br><br>
+
+
+### Mentorship Experience
+
+- **Derek Lamb**
+  - Biostatistics Student, Columbia University
+  - April 2024 - present
+
+- **Minghui Wang**
+  - Biostatistics Student, Columbia University
+  - April 2024 - August 2024
