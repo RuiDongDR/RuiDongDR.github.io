@@ -27,6 +27,7 @@ title: "Research"
 
 - [*Frontiers in Medicine*](https://www.frontiersin.org/journals/medicine)
 - [*Frontiers in Neuroscience*](https://www.frontiersin.org/journals/neuroscience)
+- [*Journal of Clinical Medicine*](https://www.mdpi.com/journal/jcm)
 - [*Journal of Infection and Public Health*](https://www.sciencedirect.com/journal/journal-of-infection-and-public-health)
 - [*Clinical Epidemiology and Global Health*](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
 - [*Communications in Information and Systems*](https://www.intlpress.com/site/pub/pages/journals/items/cis/_home/_main/index.php)
