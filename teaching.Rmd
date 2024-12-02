@@ -71,10 +71,10 @@ title: "Teaching"
 
 ### Mentorship Experience
 
-- **Derek Lamb**
-  - Biostatistics Student, Columbia University
-  - April 2024 - present
+- [**Derek Lamb**](https://lambdr.github.io/)
+  - MS Biostatistics Student, Columbia University
+  - March 2024 - present
 
 - **Minghui Wang**
-  - Biostatistics Student, Columbia University
-  - April 2024 - August 2024
+  - MPH Epidemiology Student, Columbia University
+  - March 2024 - August 2024
