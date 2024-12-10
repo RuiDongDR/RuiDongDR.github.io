@@ -25,6 +25,7 @@ title: "Research"
 
 ### Journal Reviewers
 
+- [*Applied Sciences*](https://www.mdpi.com/journal/applsci)
 - [*Clinical Epidemiology and Global Health*](https://www.sciencedirect.com/journal/clinical-epidemiology-and-global-health)
 - [*Communications in Information and Systems*](https://www.intlpress.com/site/pub/pages/journals/items/cis/_home/_main/index.php)
 - [*Frontiers in Medicine*](https://www.frontiersin.org/journals/medicine)
