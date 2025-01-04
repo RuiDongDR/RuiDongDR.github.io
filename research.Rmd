@@ -34,7 +34,7 @@ title: "Research"
 - [*International Journal of Molecular Sciences*](https://www.mdpi.com/journal/ijms)
 - [*Journal of Clinical Medicine*](https://www.mdpi.com/journal/jcm)
 - [*Journal of Infection and Public Health*](https://www.sciencedirect.com/journal/journal-of-infection-and-public-health)
-
+- [*Mathematics*](https://www.mdpi.com/journal/mathematics)
 
 ### Publications
 
