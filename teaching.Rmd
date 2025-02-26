@@ -78,3 +78,7 @@ title: "Teaching"
 - **Minghui Wang**
   - MPH Epidemiology Student, Columbia University
   - March 2024 - August 2024
+
+#### HPC Cluster Environment Setup
+
+To help new users set up their computing environment on the HPC cluster, refer to the [HPC Environment Setup Guide](./teaching/HPC_computing_CUMC.html).
