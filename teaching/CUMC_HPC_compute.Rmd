@@ -1,0 +1,463 @@
+---
+title: "Compute on the HPC at CUMC"
+output: 
+  html_document:
+    number_sections: true
+    theme: simple
+---
+
+<br><br>
+
+**HPC Cluster Environment Setup Guide**
+
+This guide provides step-by-step instructions for setting up the computing environment on our HPC cluster. It includes removing old installations, installing `micromamba`, setting up the Script of Scripts (SoS) computing environment, and managing data storage efficiently.
+
+
+Much of the content is adapted from [Dr. Gao Wang’s setup guide](https://wanggroup.org/productivity_tips/index.html), with several sections directly referenced from [here](https://wanggroup.org/orientation/jupyter-setup). However, this page reflects the configuration I currently use and recommend as a starting point for beginners.
+
+
+# Removing Old Installations 
+
+**You can skip this section if you are a new user to our HPC.**
+
+
+Before installing `micromamba`, ensure that any previous installations are removed or backed up. Check for existing installations in the following directories:
+
+```shell
+ls ~/bin/micromamba ~/bin/pixi ~/.local/micromamba ~/.local/pixi ~/micromamba ~/pixi ~/.micromamba ~/.pixi
+```
+
+To back up these directories before removal, you can rename them:
+
+```shell
+mv ~/micromamba ~/micromamba_backup
+```
+
+Once the new setup is confirmed to be working correctly, you may delete the backup directories.
+
+
+
+# Configure the Network Proxy
+
+To configure the network proxy, add the following commands to your `~/.bashrc` and then run the `source` command. Begin by opening `~/.bashrc` in a text editor and appending the commands:
+
+```
+export http_proxy=http://menloproxy.cumc.columbia.edu:8080
+export https_proxy=http://menloproxy.cumc.columbia.edu:8080
+```
+
+and type `source ~/.bashrc` to load the changes.
+
+
+# Install `micromamba`
+
+We recommend using `micromamba` over `miniconda` or `anaconda` because:
+
+- It does not require a `base` environment.
+- It does not come with a default Python version, allowing greater flexibility.
+- It is implemented in C++ and runs faster than `conda`.
+
+Note that Gao has been using `pixi` for a while instead of `micromamba` (though I personally don't have much luck using it). If you want to try out his tutorial, please check [this page](https://wanggroup.org/orientation/jupyter-setup).
+
+## Installation Steps
+
+Follow the official installation instructions [here](https://mamba.readthedocs.io/en/latest/micromamba-installation.html). Alternatively, use `wget` to install `micromamba` as shown below:
+
+```shell
+cd ~
+wget -qO- https://micromamba.snakepit.net/api/micromamba/linux-64/latest | tar -xvj bin/micromamba
+~/bin/micromamba shell init -s bash ~/micromamba
+```
+
+where you manually specific the OS, in this case `linux-64`. 
+
+After installation, update your shell configuration:
+
+```shell
+source ~/.bashrc
+```
+
+## Verifying Installation
+
+To confirm that `micromamba` is installed correctly, run:
+
+```shell
+micromamba -h
+```
+
+This should display the help message.
+
+## Configuring Default Channels
+
+For convenience, add commonly used package channels:
+
+```shell
+micromamba config prepend channels nodefaults
+micromamba config prepend channels bioconda
+micromamba config prepend channels conda-forge
+```
+
+# Setting Up the SoS Computing Environment (pieces-rabbit)
+
+We use the Script of Scripts (SoS) suite along with **Python and R** for computational workflows. The recommended version can be installed using the following configuration file: [`pisces-rabbit.yml`](https://github.com/gaow/misc/blob/master/docker/pisces-rabbit.yml).
+
+## Installation
+
+Run the following commands to install the SoS environment:
+
+```shell
+wget https://raw.githubusercontent.com/gaow/misc/master/docker/pisces-rabbit.yml 
+micromamba env create -y -f pisces-rabbit.yml
+```
+
+- (optional): The environment is named based on the Zodiac sign of the month and the corresponding year. For example, `pisces-rabbit` corresponds to a stable setup tested by our lab members as of February 2023 (Pisces, Rabbit year). This guide will be updated periodically with the latest stable versions.
+
+## Activating the Environment
+
+To load this environment automatically when opening a new shell session, add the following line to your `~/.bashrc` file:
+
+```shell
+micromamba activate pisces-rabbit 
+```
+
+Then apply the changes:
+
+```shell
+source ~/.bashrc
+```
+
+If you prefer to activate it manually, type this directly in the command line:
+
+```shell
+micromamba activate pisces-rabbit
+```
+
+## Notes for Neurology HPC Users
+
+### Job Submission Considerations
+
+On the Neurology HPC cluster, computing nodes do **not** automatically source your `~/.bashrc` settings. To ensure the environment is correctly set up in job scripts, include the following lines:
+
+```shell
+export PATH=$HOME/.local/bin:$PATH
+export MAMBA_ROOT_PREFIX=$HOME/micromamba
+eval "$(micromamba shell hook --shell bash)"
+micromamba activate pisces-rabbit
+```
+
+To simplify this process, save these lines in a script called `~/mamba_activate.sh`, and include this command at the beginning of your job submission script:
+
+```shell
+source ~/mamba_activate.sh
+```
+
+### Installing the `sos-r` Plugin
+
+By default, the SoS environment does not include `sos-r`. Neurology HPC users who require R functionality in SoS notebooks should install it manually:
+
+```shell
+micromamba activate pisces-rabbit
+micromamba install sos-r -y
+```
+
+# Data Storage on the HPC Cluster
+
+## Home Directory
+
+After you log in to the cluster, you are placed on the **login node** and start in your **home directory** (`/home/$YOUR_UNI`). This is your personal space for storing scripts, configuration files, and small-scale project files.
+
+### Organizing Your Home Directory
+
+- **Project Repositories**: You can store your project scripts here. A good practice is to first **fork** the repository from GitHub so that everything related to a project is contained within one folder.
+- **Micromamba Environment**: If you've installed `micromamba`, the corresponding environment folder will also be located here.
+- **Configuration Files**: Your home directory contains important shell configuration files such as `.bashrc`.
+
+### Accessing the Home Directory
+
+The home directory can be referenced using the tilde (`~`), so:
+
+```
+cd ~
+```
+
+is equivalent to:
+
+```
+cd /home/$YOUR_UNI
+```
+
+### Customizing Your Environment with `.bashrc`
+
+The `.bashrc` file in your home directory is automatically executed each time you log in. You can modify this file to customize your environment, such as defining **aliases** for frequently used commands:
+
+```
+# Add an alias for a more detailed `ls` command
+alias ll='ls -alh'
+```
+
+With this alias, you can type `ll` instead of `ls -alh` each time you list files.
+
+### Home Directory Limitations
+
+While your home directory is convenient for storing scripts and configurations, it **should not** be used for large datasets or high-storage-demand projects. Instead, personal and shared data should be stored in designated areas on the cluster’s shared storage system, as described in the following sections.
+
+## Personal Data Storage
+
+To efficiently manage storage, users should **not** store all data in their home directory (`/home/YOUR_UNI`). Instead, create a dedicated folder in the shared storage system:
+
+```shell
+# Create a personal folder in the shared storage
+cd /mnt/vast/hpc/csg/
+mkdir $YOUR_UNI
+```
+
+This ensures proper organization and allows better space management. Under `/mnt/vast/hpc/csg/$YOUR_UNI`, I recommend to create a folder for each project and keep things organized there.
+
+## Shared Data Storage
+
+Public datasets that are accessible to all users are stored in:
+
+```shell
+/mnt/vast/hpc/csg/data_public/
+```
+
+These datasets are typically **read-only** for most users.
+
+## Best Practices for Data Management
+
+- **Always be aware of which directory that you are at now!**
+- **Avoid redundant copies**: Store data in shared locations instead of making multiple copies.
+- **Follow permissions and access rules**: Public data can usually be read but not modified.
+- **Organize your workspace**: Keep job scripts, analysis notebooks, and GitHub repositories structured within your home directory `/home/$YOUR_UNI`
+- **Be mindful when working with shared data**: Ensure that you do not accidentally modify or overwrite files owned by others.
+
+# Slurm Job Management
+
+## Understanding the Login Node and Compute Nodes
+
+When you log in to the HPC cluster, you are placed on the **login node**, which is shared by everyone in our department. This node is **not** intended for running large analyses. Running computationally intensive tasks here will slow down the system for all users.
+
+Even operations like copying very large files should be avoided on the login node. Instead, its primary purpose is for lightweight tasks such as:
+
+- Navigating directories
+- Viewing file contents (e.g., `head filename.txt`)
+- Inspecting scripts before execution
+- Submitting jobs to the cluster
+
+### Interactive Computing on the Cluster
+
+To work interactively, you have two main options:
+
+1. **Run a Jupyter Notebook** (see the next section for details).
+2. **Switch to a compute node** using Slurm.
+
+```shell
+srun --pty --mem=20G -p CSG bash
+```
+
+This command requests **20GB of memory** and starts an interactive shell on an available compute node. 
+
+- **`srun`**: Requests resources from Slurm and launches a job step.
+- **`--pty`**: Starts an interactive session (pseudo-terminal).
+- **`--mem=20G`**: Requests 20GB of memory for the session.
+- **`bash`**: Opens a Bash shell on the assigned compute node.
+
+- **`-p CSG`**: Specifies the `CSG` partition, ensuring you get a node from this group (CSG stands for Center of Statistical Genetics)
+
+Once executed, Slurm assigns a compute node and starts an interactive shell there, allowing you to run commands as if you were directly logged into the node.
+
+When you're done, exit the session with:
+
+```shell
+exit
+```
+
+For larger analyses, submitting jobs via Slurm is recommended instead of running them interactively. The following sections explain how to do this.
+
+## What is Slurm
+
+Slurm (Simple Linux Utility for Resource Management) is a widely used open-source workload manager designed for high-performance computing (HPC) clusters. It efficiently allocates resources, schedules jobs, and manages parallel computing workloads. Slurm enables users to submit, monitor, and manage computational jobs while optimizing cluster utilization. The command that you just ran, `srun` is a Slurm command used to **launch a job step within an allocation** or to **start an interactive job** on a compute node. 
+
+Our HPC cluster uses Slurm for job scheduling. Below, we provide a basic guide to submitting and managing jobs.
+
+## Submit a Test Job
+
+To get started, you can use the following **SBATCH** script located at `/home/rd2972/test.sbatch`, which serves as a minimal example of a Slurm job submission script:
+
+```shell
+#!/bin/bash
+#SBATCH --job-name=test       # Job name
+#SBATCH --mem=1G              # Memory allocation
+#SBATCH --time=10:00:00      # Maximum runtime
+#SBATCH --output=./test_%j.out  # Standard output log
+#SBATCH --error=./test_%j.err   # Standard error log
+#SBATCH -p CSG                # Partition name
+
+which python
+which R
+
+echo "hello world"
+```
+
+This script requests **1GB of memory** and runs for a maximum of **10 hours** on the **CSG** partition. It prints the paths of the currently loaded Python and R installations and outputs "hello world" to confirm execution.
+
+To submit the job, first copy the script to your working directory and execute the following command:
+
+```shell
+cp /home/rd2972/test.sbatch ./
+sbatch ./test.sbatch
+```
+
+Upon submission, Slurm assigns a job **ID** and creates two output files in your directory:
+
+- `.out` file: Stores standard output (stdout) messages
+- `.err` file: Stores standard error (stderr) messages
+
+These files help debug and verify that your job runs correctly.
+
+## Managing Jobs with Slurm
+
+Here are some common Slurm commands for job management:
+
+```shell
+# Submit a job
+sbatch test.sbatch
+
+# Cancel a job (replace 1719337 with your job ID)
+scancel 1719337
+
+# Check the status of your jobs
+squeue --me
+
+# Start an interactive session with 20GB of memory
+srun --pty --mem=20G bash
+```
+
+**Best Practices**
+
+- **Request only the necessary resources** (memory, time, CPUs) to avoid inefficient resource allocation.
+- **Start with small memory requests** when testing to minimize queue wait times and prevent excessive cluster load.
+- **Check job logs (`.out` and `.err` files)** to debug any issues before resubmitting jobs.
+
+# Open Jupyter Notebook on HPC
+
+## Prepare the Job Script
+
+The script to submit a jupyter notebook job reads like (make sure you have created `~/mamba_activate.sh` as above):
+
+```shell
+#!/bin/bash
+#SBATCH --mem=50G
+#SBATCH --time=360:00:00
+#SBATCH --job-name=jupyter_notebook_SLURM
+#SBATCH --output=z_jupyter_notebook_%j.out
+#SBATCH -p CSG
+
+# get tunneling info
+XDG_RUNTIME_DIR=""
+port=$(shuf -i8000-9999 -n1)
+node=$(hostname -s)
+user=$(whoami)
+cluster=csglogin.neuro.columbia.edu
+
+# print tunneling instructions jupyter-log
+echo -e "
+
+MacOS or linux terminal command to create your ssh tunnel
+ssh -N -L ${port}:${node}:${port} ${user}@${cluster}
+
+Windows MobaXterm info
+Forwarded port:same as remote port
+Remote server: ${node}
+Remote port: ${port}
+SSH server: ${cluster}
+SSH login: $user
+SSH port: 22
+
+Use a Browser on your local machine to go to:
+https://localhost:${port}  (prefix w/ http:// instead if the browser complains that secured connection cannot be established)
+" > z_jupyter_notebook_$SLURM_JOBID.login_info
+
+# Start jupyter
+cd
+source ~/mamba_activate.sh
+jupyter-lab --no-browser --port=${port} --ip=${node}
+```
+
+save this script to your home directory: `~/jupyter_job_slurm.sbatch` 
+
+## Submit a Jupyter Notebook Job
+
+When you submit a job to run Jupyter Notebook on the cluster by running 
+
+```shell
+sbatch ~/jupyter_job_slurm.sbatch
+```
+
+Then two output files are created:
+
+- **`z_jupyter_notebook_<JOB_ID>.login_info`**: This file contains login information, including the SSH command you will use to access the cluster and set up a tunnel.
+- **`z_jupyter_notebook_<JOB_ID>.out`**: This file contains the URL where you can access your Jupyter Notebook.
+
+## Set Up SSH Tunnel
+
+You will use the SSH command from the `z_jupyter_notebook_<JOB_ID>.login_info` file to create a secure tunnel to the cluster from your local machine. The command will look like this:
+
+```
+ssh -N -L 8090:nodeXX:8090 $YOUR_UNI@csglogin.neuro.columbia.edu
+```
+
+Explanation of the command:
+
+- **`ssh`**: The command to initiate a secure shell connection.
+
+- **`-N`**: This tells SSH not to execute any commands on the remote server, only to establish the tunnel.
+
+- `-L 8090:nodeXX:8090`: This creates a tunnel that forwards traffic from your local machine’s port (e.g., 8090) to the remote node (where the Jupyter Notebook is running) on port (e.g., 8090).
+
+    - You should not edit anything from this line. It may come up with a different port and different node.
+
+- **`$YOUR_UNI@csglogin.neuro.columbia.edu`**: This is your SSH login to the cluster. 
+
+You will copy this command into a local terminal window (or a new tab) and be prompted for your password. After entering it, leave the terminal open. The SSH tunnel will remain active as long as the terminal is open.
+
+## Retrieve the Jupyter Notebook URL
+
+Once the job is running, open the **`z_jupyter_notebook_<JOB_ID>.out`** file and locate a line like:
+
+```
+or http://127.0.0.1:8090/lab?token=SOME_TOKEN_HERE
+```
+
+This should be around row 43 in that file.
+
+Explanation of this URL:
+
+- **`127.0.0.1`**: This refers to your local machine. Since the SSH tunnel forwards traffic, any requests to this address will be routed to the remote node on the cluster.
+- **`8090`**: This is the port number where Jupyter Notebook is running on the remote node. If it's not 8090, the correct port will be indicated in the output file. Check the file for any specific port number.
+- **`/lab`**: This indicates you are accessing JupyterLab, which is the enhanced interface for Jupyter Notebooks.
+- **`token=YOUR_TOKEN_HERE`**: This is a security token used to authenticate your session. It is unique for each session and required to access the Jupyter Notebook.
+
+## Open Jupyter Notebook
+
+Copy the URL after `or` and paste it into your local browser. You should be able to access the Jupyter Notebook interface running on the cluster through the tunnel you set up.
+
+By following these steps, you can seamlessly run and access Jupyter Notebooks on the cluster.
+
+## Manage Jupyter Notebook Jobs and Resource Usage
+
+Once you submit a Jupyter Notebook job, it starts running on the cluster and will continue to occupy the memory resources it requests until one of the following occurs:
+
+1. **You manually cancel the job** using the command `scancel $JOB_ID`.
+2. **The job reaches its maximum time limit** as set in the `.sbatch` file (e.g., `#SBATCH --time=360:00:00`, which specifies 15 days). After this, the job will automatically terminate.
+
+While the job is running, it takes up the memory specified during submission. This memory is allocated exclusively to your job, meaning it cannot be used by other users on the cluster.
+
+- **Single SSH Tunnel**: Typically, a single device will connect to the cluster through only one SSH tunnel, even if multiple Jupyter Notebooks are running. This means that if you have multiple notebooks running, it could be a waste of memory as only one tunnel is active.
+- **Job Status**: Closing the browser or disconnecting from the cluster will not affect the status of the job. The job will continue to run in the background and still consume the allocated memory. No one else can use that memory until the job is canceled or finished.
+
+### Another Jupyter Notebook Job?
+
+If you find that your Jupyter Notebook job is not functioning properly (e.g., due to insufficient memory) or if the job is about to expire, it is generally better to submit a new job rather than trying to fix the old one. This ensures that resources are used efficiently and you avoid unnecessary delays or issues with long-running jobs.
+
+If you are unsure how to cancel jobs or check their status, please refer to the **Slurm job management** section to learn how to manage your jobs on the cluster effectively.

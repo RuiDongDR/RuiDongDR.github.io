@@ -1,0 +1,42 @@
+---
+title: "Login to the HPC at CUMC"
+output: 
+  html_document:
+    number_sections: true
+    theme: simple
+---
+
+<br><br>
+
+
+# Setup Your Account
+
+**Note: for off-site access you need to [connect to VPN](https://wanggroup.org/productivity_tips/cumc-vpn.html) first; otherwise instructions below will not work.**
+
+Please go to [this portal](https://remote.neuro.columbia.edu) to login & create a new password for Neurology:
+
+```
+username: <your UNI>
+Temporary password: Neurology99
+```
+
+You will get an error saying the password has expired. It will then give you an opportunity to create a new password for your account. This will then be your credentials for accessing our resources here at Neurology. This account will give you access to the cluster. Notice that this password is separate from your CU passwords, and is only relevant to connecting to Neurology HPC.
+
+
+Here is the requirement for the new password --- if your password fails to satisfy you may need to reset it.
+
+- Use a strong password: A strong password is designed to be very complex and therefore very difficult to crack or guess. To be sufficiently complex, it must:
+  - Be over 8 characters long
+  - Contain mixed case letters, numbers and special characters
+  - Not contain a word that can be found in a dictionary, English or otherwise
+- We also strongly advise that a password does not contain something that would be easy for those who know you to guess. This includes the name(s) of your spouse, children, pets, favorite sports teams, or any nicknames
+
+# Login to HPC at CUMC
+
+Now you should be ready to login the cluster using your Linux or Mac terminal. For CSG members (which we are, CSG stands for Center of Statistical Genetics),
+
+```bash
+ssh <uni>@csglogin.neuro.columbia.edu
+```
+
+where `<uni>` is your Columbia UNI. Password is the one you just created. If you are on Windows 10 and do not have `ssh`, please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) with ubuntu, which ships with ssh by default, and use the terminal provided by the subsystem.
