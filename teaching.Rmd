@@ -83,5 +83,5 @@ title: "Teaching"
 
 To help new users in Dr. Leal's lab to set up their computing environment on the HPC cluster at Columbia University Medical Center, refer to the two tutorials here:
 
-- [**first time login to the CUMC HPC**](./teaching/CUMC_HPC_login.html)
-- [**setup the computing environment on CUMC HPC**](./teaching/CUMC_HPC_compute.html)
+- [**First time login to the CUMC HPC**](./teaching/CUMC_HPC_login.html)
+- [**Setup the computing environment on CUMC HPC**](./teaching/CUMC_HPC_compute.html)
