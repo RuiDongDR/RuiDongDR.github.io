@@ -36,6 +36,7 @@ title: "Research"
 - [*Journal of Clinical Medicine*](https://www.mdpi.com/journal/jcm)
 - [*Journal of Infection and Public Health*](https://www.sciencedirect.com/journal/journal-of-infection-and-public-health)
 - [*Mathematics*](https://www.mdpi.com/journal/mathematics)
+- [*Molecular Neurobiology*](https://link.springer.com/journal/12035)
 - [*Molecular Psychiatry*](https://www.nature.com/mp/)
 
 ### Publications
