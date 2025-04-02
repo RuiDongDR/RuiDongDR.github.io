@@ -43,7 +43,7 @@ title: "Research"
 
 #### Original Articles (Peer Reviewed)
 
-1. **Dong R**, Wang TG, DeWan AT, Leal SM (2025) The case-only design: a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. *accepted for BMC Genomics*.
+1. **Dong R**, Wang TG, DeWan AT, Leal SM (2025) The case-only design: a powerful approach to detect interactions that should be used with caution: the impact of disease prevalence and other factors on type I and II errors. *BMC Genomics*, 26(1): 222. [PMID: 40050722](https://pubmed.ncbi.nlm.nih.gov/40050722/); [PMC11884093](https://pmc.ncbi.nlm.nih.gov/articles/PMC11884093/)
 2. Cornejo-Sanchez DM, Bharadwaj T, **Dong R** , Wang GT, Schrauwen I, DeWan AT, Leal SM (2025) Mendelian non-syndromic and syndromic hearing loss genes contribute to presbycusis. *European Journal of Human Genetics*, 1-10. [PMID: 40055553](https://pubmed.ncbi.nlm.nih.gov/40055553/)
 3. **Dong R**\*, Hu T\*, Zhang Y, Li Y, Zhou XH (2022) Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron. *Vaccines (Special Issue: COVID-19: Epidemiology and Transmission)*, 10(4): 496. [PMID: 35455246](https://pubmed.ncbi.nlm.nih.gov/35455246/); [PMC9026126](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9026126/)
 4. **Dong R**, Pei S, Guan M, Yau SC, Yin C, He RL, Yau SST (2022) Full chromosomal relationships between populations and the origin of humans. *Frontiers in Genetics*, 12: 828805. [PMID: 35186019](https://pubmed.ncbi.nlm.nih.gov/35186019/); [PMC8847220](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8847220/)
