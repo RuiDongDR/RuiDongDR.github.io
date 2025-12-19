@@ -9,8 +9,6 @@ title: "Software"
 - **Description**: Simulates data for the case-only and case-control designs for the detection of interactions, calculates analytical bias of interation term and evaluates the type I error and power for the case-only design
 - **Reference**: **Dong R**, Wang GT, DeWan AT, Leal SM (2025) The case-only design is a powerful approach to detect interactions but should be used with caution. *BMC Genomics*, 26, 222. [PMID: 40050722](https://pubmed.ncbi.nlm.nih.gov/40050722/); [PMC11884093](https://pmc.ncbi.nlm.nih.gov/articles/PMC11884093/)
 
-
-
 ### Human-Origin-1kGP
 - **Github repo**: https://github.com/YaulabTsinghua/Human-Origin-1kGP
 - **Database**: http://yaulab.math.tsinghua.edu.cn/2022_1000genomesprojectdata/ 
