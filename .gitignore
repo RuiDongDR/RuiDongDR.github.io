@@ -1,0 +1,6 @@
+# R Markdown build artifacts
+site_libs/
+*.knit.md
+.Rhistory
+.RData
+.Rproj.user

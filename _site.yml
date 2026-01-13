@@ -26,6 +26,7 @@ navbar:
       href: https://github.com/RuiDongDR/
 output:
   html_document:
+    self_contained: true
     include:
       after_body: footer.html
     theme: simplex
