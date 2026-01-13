@@ -57,8 +57,10 @@ title: "Research"
 12. **Dong R**\*, Zhu Z\*, Yin C, He RL, Yau SST (2018) A new method to cluster genomes based on cumulative Fourier power spectrum. *Gene* 673:239-250. [PMID: 29935353](https://pubmed.ncbi.nlm.nih.gov/29935353/)
 13. **Dong R**, Zheng H, Tian K, Yau SC, Mao W, Yu W, Yin C, Yu C, He RL, Yang J, Yau SST (2017) Virus database and online inquiry system based on natural vectors. *Evolutionary Bioinformatics* 13:1-7. [PMID: 29308007](https://pubmed.ncbi.nlm.nih.gov/29308007/); [PMC5751915](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5751915/)
 
-\* Co-first author
-
 
 #### Under Revision
+- **Dong R**\*, Lamb D\*, Wang TG, DeWan AT, Leal SM (2026) Leveraging *cis*- and *trans*-variants to improve protein expression level prediction for proteome-wide association studies. Submitted.
+- **Dong R**\*, Wang M, Wang TG, DeWan AT, Leal SM (2026) LDSC regression-based heritability estimates can be biased when summary statistics are obtained from meta-analysis or imputed variants. Submitted.
 - Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Submitted.
+
+\* Co-first author
