@@ -4,3 +4,5 @@ site_libs/
 .Rhistory
 .RData
 .Rproj.user
+.DS_Store
+academicons/.DS_Store
