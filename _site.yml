@@ -17,7 +17,7 @@ navbar:
       icon: fa-solid fa-gear
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<rui.dong.dr@gmail.com>
+      href: mailto:rui.dong.dr@gmail.com
     - icon: ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=GetVMvIAAAAJ&hl=en
     - icon: fa-brands fa-linkedin
@@ -26,7 +26,7 @@ navbar:
       href: https://github.com/RuiDongDR/
 output:
   html_document:
-    self_contained: true
+    self_contained: false
     include:
       after_body: footer.html
     theme: simplex
