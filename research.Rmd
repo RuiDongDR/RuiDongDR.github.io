@@ -60,8 +60,8 @@ title: "Research"
 
 
 #### Under Revision
-- **Dong R**\*, Lamb D\*, Wang TG, DeWan AT, Leal SM (2026) Leveraging *cis*- and *trans*-variants to improve protein expression level prediction for proteome-wide association studies. Submitted.
-- **Dong R**, Wang M, Wang TG, DeWan AT, Leal SM (2026) LDSC regression-based heritability estimates can be biased when summary statistics are obtained from meta-analysis or imputed variants. Submitted.
+- **Dong R**\*, Lamb D\*, Wang TG, DeWan AT, Leal SM (2026) Leveraging *cis*- and *trans*-variants to improve protein expression level prediction for proteome-wide association studies. Under review.
+- **Dong R**, Wang M, Wang TG, DeWan AT, Leal SM (2026) LDSC regression-based heritability estimates can be biased when summary statistics are obtained from meta-analysis or imputed variants. Under review.
 - Li Y, Cornejo-Sanchez DM, **Dong R**, Naderi E, Wang GT, Leal SM, DeWan AT (2026) Shared genetic factors between lung function and asthma by age at onset. Submitted. 
 - Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Submitted.
 

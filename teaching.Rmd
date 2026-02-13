@@ -8,9 +8,11 @@ title: "Teaching"
 
 - **3rd Annual Summer Program in Statistical Functional Genomics (StatFunGen) — From GWAS to Spatial Omics**
   - Instructor, Shenzhen, China
-  - June 23-27, 2025  
+  - June, 2025  
   - Delivered two half-day lectures on statistical foundations for modern genetic association studies, including regression modeling, mixed models, hypothesis testing, and Bayesian inference in statistical genetics
   - Teaching materials: [Statistical Genetics Primer Lecture Notes](https://statfungen.github.io/statgen-primer/README.html)
+
+<br><br>
 
 ### Teaching Assistant
 
@@ -75,7 +77,6 @@ title: "Teaching"
   - Lecturer: [Prof. Donald Rubin](https://statistics.fas.harvard.edu/people/donald-b-rubin)
 
 <br><br>
-
 
 ### Mentorship Experience
 
