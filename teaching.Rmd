@@ -4,6 +4,14 @@ title: "Teaching"
 
 <br><br>
 
+### Summer Course
+
+- **3rd Annual Summer Program in Statistical Functional Genomics (StatFunGen) — From GWAS to Spatial Omics**
+  - Instructor, Shenzhen, China
+  - June 23-27, 2025  
+  - Delivered two half-day lectures on statistical foundations for modern genetic association studies, including regression modeling, mixed models, hypothesis testing, and Bayesian inference in statistical genetics
+  - Teaching materials: [Statistical Genetics Primer Lecture Notes](https://statfungen.github.io/statgen-primer/README.html)
+
 ### Teaching Assistant
 
 - **Classical Contributions to Modern Statistical Thinking**
@@ -71,9 +79,17 @@ title: "Teaching"
 
 ### Mentorship Experience
 
+- **Jeffrey Lin**
+  - MS Biostatistics Student, Columbia University
+  - Jan 2025 - present
+
+- **Jingyi Xu**
+  - MS Biostatistics Student, Columbia University
+  - September 2024 - present
+
 - [**Derek Lamb**](https://lambdr.github.io/)
   - MS Biostatistics Student, Columbia University
-  - March 2024 - present
+  - March 2024 - May 2025
 
 - **Minghui Wang**
   - MPH Epidemiology Student, Columbia University
