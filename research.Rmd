@@ -9,7 +9,7 @@ title: "Research"
 
 1.  **November 2022, Beijing, China:** *Case-only design to estimate interaction effect in GWAS of rare disease*, [Postdoc Workshop for Yau Mathematical Sciences Center, Tsinghua University](https://ymsc.tsinghua.edu.cn/en/info/1060/2473.htm)
 2.  **August 2022, Nanjing, China:** *Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron*, [The 9th International Congress of Chinese Mathematicians](http://iccm.tsinghua.edu.cn/iccm2022/#/)
-3.  **April 2022, Nanjing (online), China:** *Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron*, [Forum for Young Scholars in Mathematics and Mathematical Physics at Shing-Tung Yau Center of Southeast University](https://yauc.seu.edu.cn/2022/1208/c27640a430948/page.psp)
+3.  **April 2022, Nanfjing (online), China:** *Assessing the transmissibility of the new SARS-CoV-2 variants: from Delta to Omicron*, [Forum for Young Scholars in Mathematics and Mathematical Physics at Shing-Tung Yau Center of Southeast University](https://yauc.seu.edu.cn/2022/1208/c27640a430948/page.psp)
 4.  **December 2021, Sanya (online), China:** *Full chromosomal relationships between populations and the origin of humans*, [Conference on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://tsimf.cn/meeting/detail?id=284)
 5.  **July 2021, Chongqing, China:** *Statistical methods for Alzheimer's disease gene-mapping in large cohort studies*, The 1st Youth Forum of [Peking University Chongqing Institute of Big Data](https://bda.pku.edu.cn/ydkyjg/bjdxzqdsjyjy.htm)
 6.  **December 2019, Sanya, China:** *A novel approach to clustering genome sequences using inter-nucleotide covariance*, [Conference on Computational and Mathematical Bioinformatics and Biophysics in Tsinghua Sanya International Mathematics Forum](http://www.tsimf.cn/meeting/detail?id=154)
@@ -62,7 +62,7 @@ title: "Research"
 #### Under Revision
 - **Dong R**\*, Lamb D\*, Wang TG, DeWan AT, Leal SM (2026) Leveraging *cis*- and *trans*-variants to improve protein expression level prediction for proteome-wide association studies. Under review.
 - **Dong R**, Wang M, Wang TG, DeWan AT, Leal SM (2026) LDSC regression-based heritability estimates can be biased when summary statistics are obtained from meta-analysis or imputed variants. Under review.
-- Li Y, Cornejo-Sanchez DM, **Dong R**, Naderi E, Wang GT, Leal SM, DeWan AT (2026) Shared genetic factors between lung function and asthma by age at onset. Available on [medRxiv](https://www.medrxiv.org/content/10.64898/2026.02.20.26346655v1) and submitted.
+- Li Y, Cornejo-Sanchez DM, **Dong R**, Naderi E, Wang GT, Leal SM, DeWan AT (2026) Shared genetic factors between lung function and asthma by age at onset. Available on [medRxiv 2026.02.20.26346655](https://www.medrxiv.org/content/10.64898/2026.02.20.26346655v1) and submitted.
 - Li Y, Tai QC, **Dong R**, You YA, Liang MF, Zhou XH (2024) A 2-transcript signature discriminated SARS-CoV-2 infections from common respiratory viruses before detectable viral RNA on RT-PCR testing. Submitted.
 
 \* Co-first author
