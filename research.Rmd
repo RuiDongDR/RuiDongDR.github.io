@@ -39,6 +39,7 @@ title: "Research"
 - [*Metabolites*](https://www.mdpi.com/journal/metabolites)
 - [*Molecular Neurobiology*](https://link.springer.com/journal/12035)
 - [*Molecular Psychiatry*](https://www.nature.com/mp/)
+- [*PLOS Genetics*](https://journals.plos.org/plosgenetics/)
 
 ### Publications
 
